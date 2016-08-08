@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emplist>
+    <emp id="1">
+        <name>张三</name>
+        <age>18</age>
+        <gender>男</gender>
+        <salary>5000</salary>
+    </emp>
+    <emp id="2">
+        <name>李四</name>
+        <age>20</age>
+        <gender>女</gender>
+        <salary>2000</salary>
+    </emp>
+    <emp id="3">
+        <name>王五</name>
+        <age>56</age>
+        <gender>女</gender>
+        <salary>80000</salary>
+    </emp>
+    <emp id="4">
+        <name>赵六</name>
+        <age>34</age>
+        <gender>男</gender>
+        <salary>5000</salary>
+    </emp>
+    <emp id="5">
+        <name>钱起</name>
+        <age>12</age>
+        <gender>男</gender>
+        <salary>6000</salary>
+    </emp>
+</emplist>
